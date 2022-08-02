@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, SCSS, JavaScript, MySQL**
+- 💬 Ask me about **HTML, CSS, SCSS, JavaScript**
 
 - 📫 How to reach me **cafes_latex_0s@icloud.com**
 
