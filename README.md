@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Espejo</h1>
 <h3 align="center">I'm a software engineering student.</h3>
 
-- 🌱 I’m currently learning **React**, **Java**
+- 🌱 I’m currently learning **React** and **Java**
 
-- 💬 Ask me about **SQL, JavaScript, SASS, HTML**
+- 💬 Ask me about **SQL, JavaScript, SASS css, HTML5**
 
 - 📫 How to reach me **cafes_latex_0s@icloud.com**
 
