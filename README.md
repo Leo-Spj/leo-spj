@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Espejo</h1>
 <h3 align="center">I'm a software engineering student.</h3>
 
-- 🌱 I’m currently learning **React** and **Java**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **SQL, JavaScript, SASS css, HTML5**
 
