@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **SQL, NoSQL, JavaScript, SASS css, HTML5**
+- 💬 Ask me about **SQL, NoSQL, NodeJs, JavaScript, SASS css, HTML5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
