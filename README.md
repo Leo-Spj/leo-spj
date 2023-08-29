@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leonardo Espejo</h1>
 <h3 align="center">I'm a software engineering student.</h3>
 
-- 🌱 I’m currently learning **NodeJs, Python, PHP**
+- 🌱 I’m currently learning **NodeJs, Python and PHP**
 
 - 💬 Ask me about **SQL, NoSQL, Java, JavaScript, SASS css, HTML5**
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ed41b8b128dce3cb8795e4?variant=dark&roadmaps=java%2Csql%2Cnodejs%2Cpython)](https://roadmap.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
