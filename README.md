@@ -19,7 +19,3 @@ Soy Leonardo Espejo, estudiante de Ingeniería de Software en la Universidad Tec
 ## Educación
 
 - **Ingeniería de Software** - Universidad Tecnológica del Perú (UTP) - Agosto 2021 - Actualidad
-
-## Contacto
-
-- LinkedIn: [https://linkedin.com/in/leo-spj](https://linkedin.com/in/leo-spj)
