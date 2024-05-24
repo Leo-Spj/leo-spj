@@ -14,7 +14,7 @@ Soy Leonardo Espejo, estudiante de Ingeniería de Software en la Universidad Tec
 
 ## Experiencia
 
-- **Miembro de Google Developer Student Club UTP (Sept 2022 - Jun 2023):** Impartí presentaciones sobre el uso de GitHub, organicé talleres tecnológicos y ayudé a proyectar a los estudiantes hacia un panorama competitivo.
+- **Miembro de Google Developer Student Club UTP (Sept 2022 - Jun 2023):** Impartí presentaciones sobre el uso de GitHub como taller tecnológico, ayudando a proyectar a estudiantes hacia un panorama competitivo.
 
 ## Educación
 
